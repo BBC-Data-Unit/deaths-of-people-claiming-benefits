@@ -35,7 +35,15 @@ The data and background methodology released to partners are available here:
 
 ## Interviews and quotes
 
-* 
+* Imogen Day, whose sister Philippa took a fatal overdose after [authorities who dealt with her benefits claim made 28 errors in managing her case](https://www.bbc.co.uk/news/uk-england-nottinghamshire-55826996)
+* Alison Turner, fiancée of Errol Graham’s son. Mr Graham [starved to death while seriously mentally ill after his benefits were stopped](https://www.theguardian.com/society/2021/mar/04/family-of-man-who-starved-to-death-after-benefits-cut-loses-case-against-dwp)
+* Joy Dove, the mother of Jodey Whiting, who [took her own life in February 2017 after her benefits were stopped](https://www.bbc.co.uk/news/uk-england-tees-54907346)
+* Debbie Abrahams,  Labour MP for Oldham East and Saddleworth, who previously [read out the names of 29 individuals to have died during a Commons debate](https://www.theyworkforyou.com/whall/?id=2019-04-24c.325.1)
+* Tessa Gregory, partner at Leigh Day solicitors, and human rights specialist who brought the [judicial review against the Department for Work & Pensions’s safeguarding policy applying to the case of Errol Graham](https://www.theguardian.com/society/2021/mar/04/family-of-man-who-starved-to-death-after-benefits-cut-loses-case-against-dwp)
+* The Equality and Human Rights Commission
+* Ken Butler, welfare rights adviser at the pan-disability charity Disability Rights UK
+* Daphne Hall, the vice chair of the National Association of Welfare Rights Advisers and rightsnet Editor
+* The Department for Work & Pensions
 
 ## Partner usage
 

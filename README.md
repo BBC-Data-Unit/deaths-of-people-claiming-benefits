@@ -55,3 +55,4 @@ The story featured on BBC front, home and England pages. It was also used by BBC
 
 * The Mirror: [Single mum who took fatal overdose after benefits cut one of many deaths being reviewed](https://www.mirror.co.uk/news/uk-news/single-mum-who-took-fatal-24068481) *10 May 2021*
 * Wales Online: [Reviews into 150 deaths and serious harms of people claiming benefits](https://www.walesonline.co.uk/news/uk-news/reviews-150-deaths-serious-harms-20561241) *10 May 2021*
+* The Guardian: [Philippa Day death: family launches legal challenge against DWP](https://www.theguardian.com/society/2021/may/10/philippa-day-death-family-legal-challenge-against-dwp) *10 May 2021*

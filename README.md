@@ -35,4 +35,8 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 Stories written by partners based on this research included:
 
 * Nottinghamshire Live: [The Nottinghamshire people who died after loss or change of their benefits](https://www.nottinghampost.com/news/local-news/nottinghamshire-people-who-died-after-5393313.amp) *10 May 2021*
-* 
+* Yorkshire Live: [Batley man 'Mr T' starved to death with just 9p in his pocket, report into benefits failings claims](https://www.examinerlive.co.uk/news/west-yorkshire-news/batley-man-mr-t-starved-20554513) *10 May 2021*
+* Surrey Live: [Reviews into 150 deaths and serious harms of people claiming benefits](https://www.getsurrey.co.uk/news/uk-world-news/reviews-150-deaths-serious-harms-20561241) *10 May 2021*
+* Cambridgeshire Live: [Reviews into 150 deaths and serious harms of people claiming benefits](https://www.cambridge-news.co.uk/news/uk-world-news/reviews-150-deaths-serious-harms-20561241) *10 May 2021*
+* Birmingham Live: [Mum, 27, who took fatal overdose after benefits cut by DWP one of many deaths under review](https://www.birminghammail.co.uk/news/midlands-news/mum-27-who-took-fatal-20561761) *10 May 2021*
+* Lincolnshire Live: [Reviews into 150 deaths and serious harms of people claiming benefits](https://www.lincolnshirelive.co.uk/news/uk-world-news/reviews-150-deaths-serious-harms-5394649) *10 May 2021*

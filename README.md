@@ -33,3 +33,6 @@ The data and background methodology released to partners are available here:
 
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership.
 Stories written by partners based on this research included:
+
+* Nottinghamshire Live: [The Nottinghamshire people who died after loss or change of their benefits](https://www.nottinghampost.com/news/local-news/nottinghamshire-people-who-died-after-5393313.amp) *10 May 2021*
+* 

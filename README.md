@@ -17,12 +17,20 @@ Separately, the BBC Shared Data Unit [compiled a dataset of press reports](https
 
 ## Method
 
+We made email requests to every Coroner’s office in England and Wales asking for copies of all of the Prevention of Future Death (PFD) reports or Rule 43 letters their Coroner or office had sent to the Department for Work & Pensions(DWP) over the past decade and scoured the Chief Coroner’s website for all PFDs where the DWP was a recipient.
 
+Separately, we made four requests under the Freedom of Information Act(FOI) to the DWP itself: one successful for copies of minutes from the DWP’s Serious Case Panel and three requests for data on the numbers of benefits claimants’ deaths recorded by the DWP, which were all refused on the grounds of cost.
+
+A further separate FOI response from Northern Ireland’s Department for Communities received the response: “The Department is not aware of any benefit-related deaths in Northern Ireland nor is it aware of any coroner’s reports that have explicitly stated a benefit decision that has had a causal impact on the death of a claimant.” 
+
+In Scotland, we also analysed the most recent 100 Sheriffs’ determinations in Fatal Accident Inquiries but none mentioned the DWP.
+
+We meanwhile created our own dataset of press reports naming individuals to have died after some alleged DWP activity such as termination of benefits - we found 104 examples of individuals since 2008 (as well as Press reports of the death of Cecilia Burns from Strabane, County Tyrone, Northern Ireland) - 82 of those individuals died in Great Britain over the same time period as the DWP carried out 150 internal reviews. 
 
 ## Data and sources
 
 The data and background methodology released to partners are available here:
-* [Background](https://docs.google.com/document/d/1xm4jbi5bB1ONy0LHLCmAV4xVNJCM47a38ued_wtLyuY/edit?usp=sharing)
+* [Full background](https://docs.google.com/document/d/1xm4jbi5bB1ONy0LHLCmAV4xVNJCM47a38ued_wtLyuY/edit?usp=sharing)
 * [Dataset of press reports](https://drive.google.com/file/d/12or_c9cUspul4IWM1Tiv45tEuWSjyOzf/view?usp=sharing)
 
 ## Interviews and quotes

@@ -50,7 +50,7 @@ Stories written by partners based on this research included:
 * Lincolnshire Live: [Reviews into 150 deaths and serious harms of people claiming benefits](https://www.lincolnshirelive.co.uk/news/uk-world-news/reviews-150-deaths-serious-harms-5394649) *10 May 2021*
 * Cheshire Live: [Cheshire mum found dead in coat and scarf 'not isolated incident', investigation reveals](https://www.cheshire-live.co.uk/news/chester-cheshire-news/cheshire-mum-found-dead-coat-20561915) *10 May 2021*
 
-The story featured on BBC front, home and England pages. It was also used by BBC Radio Tees and BBC Radio Shropshire.
+The story featured on BBC front, home and England pages. It was used on television news by BBC Breakfast, the 1300 national bulletin, Afternoon Live on the BBC News Channel, BBC London, East Midlands Today. It was also used by BBC Radio 4 Today, BBC Radio Manchester, BBC Radio Tees and BBC Radio Shropshire.
 
 ## Other usage
 

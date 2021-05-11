@@ -57,11 +57,14 @@ Stories written by partners based on this research included:
 * Birmingham Live: [Mum, 27, who took fatal overdose after benefits cut by DWP one of many deaths under review](https://www.birminghammail.co.uk/news/midlands-news/mum-27-who-took-fatal-20561761) *10 May 2021*
 * Lincolnshire Live: [Reviews into 150 deaths and serious harms of people claiming benefits](https://www.lincolnshirelive.co.uk/news/uk-world-news/reviews-150-deaths-serious-harms-5394649) *10 May 2021*
 * Cheshire Live: [Cheshire mum found dead in coat and scarf 'not isolated incident', investigation reveals](https://www.cheshire-live.co.uk/news/chester-cheshire-news/cheshire-mum-found-dead-coat-20561915) *10 May 2021*
+* Derbyshire Live: [Reviews into 150 deaths and serious harms of people claiming benefits](https://www.derbytelegraph.co.uk/news/uk-world-news/reviews-150-deaths-serious-harms-5394649) *10 May 2021*
 * ITV Tyne Tees: [Calls for a inquiry into DWP handling of cases after death of North East woman](https://www.itv.com/news/tyne-tees/2021-05-10/calls-for-a-inquiry-into-dwp-handling-of-cases-after-death-of-north-east-woman) *10 May 2021*
 * Metro Radio: [Deaths of people on benefits prompts calls for system overhaul](https://planetradio.co.uk/metro/local/news/deaths-of-people-on-benefits-prompts-calls-for-system-overhaul/) *10 May 2021*
 * Coventry Live: [Death of Warwickshire couple included in review into serious harms of people claiming benefits](https://www.coventrytelegraph.net/news/coventry-news/death-warwickshire-couple-included-review-20565990) *11 May 2021*
+* Bristol Live: [DWP comes under fire after deaths of benefit claimants](https://www.bristolpost.co.uk/news/health/dwp-comes-under-fire-after-5397346) *11 May 2021*
+* The Lincolnite: [Universal Credit cases allegedly linked to Lincolnshire deaths](https://thelincolnite.co.uk/2021/05/universal-credit-cases-allegedly-linked-to-lincolnshire-deaths/) *11 May 2021*
 
-The story featured on BBC front, home and England pages. It was used on television news by BBC Breakfast, the 13:00, 18:00 and 22:00 national bulletins, Afternoon Live on the BBC News Channel, BBC London, East Midlands Today. It was also used by BBC Radio 4 Today, BBC Radio Manchester, BBC Radio Tees and BBC Radio Shropshire.
+The story featured on BBC front, home and England pages. It was used on television news by BBC Breakfast, the 13:00, 18:00 and 22:00 national bulletins, Afternoon Live on the BBC News Channel and East Midlands Today. It was also used by BBC Radio 4 Today, BBC Radio Manchester, BBC Radio Tees and BBC Radio Shropshire.
 
 ## Other usage
 
@@ -72,3 +75,4 @@ The story featured on BBC front, home and England pages. It was used on televisi
 * Disability Rights UK: [82 benefit claimants have died after some alleged DWP activity such as termination of benefits, BBC finds](https://www.disabilityrightsuk.org/news/2021/may/82-benefit-claimants-have-died-after-some-alleged-dwp-activity-such-termination) *10 May 2021*
 * Bustle: [What Happened With The Philippa Day Case & Why It Matters](https://www.bustle.com/politics/what-happened-with-the-philippa-day-case-why-does-it-matter) *10 May 2021*
 * Benefits and Work: [DWP faces more legal action as BBC reveals 150 benefits related deaths or episodes causing serious harm](https://www.benefitsandwork.co.uk/news/4380-dwp-faces-more-legal-action-as-bbc-reveals-150-benefits-related-deaths-or-episodes-causing-serious-harm) *10 May 2021*
+* Metro: [Man with bipolar killed himself after being deemed ‘fit for work’](https://metro.co.uk/2021/05/11/man-with-bipolar-killed-himself-after-being-deemed-fit-for-work-14558748/) *11 May 2021*

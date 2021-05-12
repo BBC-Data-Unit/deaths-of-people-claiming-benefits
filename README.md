@@ -60,9 +60,13 @@ Stories written by partners based on this research included:
 * Derbyshire Live: [Reviews into 150 deaths and serious harms of people claiming benefits](https://www.derbytelegraph.co.uk/news/uk-world-news/reviews-150-deaths-serious-harms-5394649) *10 May 2021*
 * ITV Tyne Tees: [Calls for a inquiry into DWP handling of cases after death of North East woman](https://www.itv.com/news/tyne-tees/2021-05-10/calls-for-a-inquiry-into-dwp-handling-of-cases-after-death-of-north-east-woman) *10 May 2021*
 * Metro Radio: [Deaths of people on benefits prompts calls for system overhaul](https://planetradio.co.uk/metro/local/news/deaths-of-people-on-benefits-prompts-calls-for-system-overhaul/) *10 May 2021*
+* JACKfm: The sister of an Oxfordshire man who starved to death months after his benefits were cut, says the system needs improving in order to safeguard other vulnerable people *10 May 2021*
+* Grimsby Live: [The tragic North East Lincolnshire dads who took their own lives when their benefits stopped](https://www.grimsbytelegraph.co.uk/news/local-news/tragic-north-east-lincolnshire-dads-5391922) *10 May 2021*
 * Coventry Live: [Death of Warwickshire couple included in review into serious harms of people claiming benefits](https://www.coventrytelegraph.net/news/coventry-news/death-warwickshire-couple-included-review-20565990) *11 May 2021*
 * Bristol Live: [DWP comes under fire after deaths of benefit claimants](https://www.bristolpost.co.uk/news/health/dwp-comes-under-fire-after-5397346) *11 May 2021*
 * The Lincolnite: [Universal Credit cases allegedly linked to Lincolnshire deaths](https://thelincolnite.co.uk/2021/05/universal-credit-cases-allegedly-linked-to-lincolnshire-deaths/) *11 May 2021*
+* The Oldham Times: [Deaths of people on benefits sparks Oldham MP inquiry call](https://www.theoldhamtimes.co.uk/news/19294130.deaths-people-benefits-sparks-oldham-mp-inquiry-call/) *12 May 2021*
+* Liverpool Echo: [Death of 'freezing and skint' mum of four found in her 'hat and scarf' reviewed by DWP](https://www.liverpoolecho.co.uk/news/liverpool-news/death-freezing-skint-mum-four-20570472) *12 May 2021*
 
 The story featured on BBC front, home and England pages. It was used on television news by BBC Breakfast, the 13:00, 18:00 and 22:00 national bulletins, Afternoon Live on the BBC News Channel and East Midlands Today. It was also used by BBC Radio 4 Today, BBC Radio Manchester, BBC Radio Tees and BBC Radio Shropshire.
 

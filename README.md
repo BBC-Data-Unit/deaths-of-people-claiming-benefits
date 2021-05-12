@@ -62,6 +62,7 @@ Stories written by partners based on this research included:
 * Metro Radio: [Deaths of people on benefits prompts calls for system overhaul](https://planetradio.co.uk/metro/local/news/deaths-of-people-on-benefits-prompts-calls-for-system-overhaul/) *10 May 2021*
 * JACKfm: The sister of an Oxfordshire man who starved to death months after his benefits were cut, says the system needs improving in order to safeguard other vulnerable people *10 May 2021*
 * Grimsby Live: [The tragic North East Lincolnshire dads who took their own lives when their benefits stopped](https://www.grimsbytelegraph.co.uk/news/local-news/tragic-north-east-lincolnshire-dads-5391922) *10 May 2021*
+* Nottinghamshire Live: [Philippa Day's family take legal action against DWP over her death](https://www.nottinghampost.com/news/nottingham-news/family-take-legal-action-against-5398647.amp) *11 May 2021*
 * Coventry Live: [Death of Warwickshire couple included in review into serious harms of people claiming benefits](https://www.coventrytelegraph.net/news/coventry-news/death-warwickshire-couple-included-review-20565990) *11 May 2021*
 * Bristol Live: [DWP comes under fire after deaths of benefit claimants](https://www.bristolpost.co.uk/news/health/dwp-comes-under-fire-after-5397346) *11 May 2021*
 * The Lincolnite: [Universal Credit cases allegedly linked to Lincolnshire deaths](https://thelincolnite.co.uk/2021/05/universal-credit-cases-allegedly-linked-to-lincolnshire-deaths/) *11 May 2021*
@@ -80,4 +81,5 @@ The story featured on BBC front, home and England pages. It was used on televisi
 * Bustle: [What Happened With The Philippa Day Case & Why It Matters](https://www.bustle.com/politics/what-happened-with-the-philippa-day-case-why-does-it-matter) *10 May 2021*
 * Benefits and Work: [DWP faces more legal action as BBC reveals 150 benefits related deaths or episodes causing serious harm](https://www.benefitsandwork.co.uk/news/4380-dwp-faces-more-legal-action-as-bbc-reveals-150-benefits-related-deaths-or-episodes-causing-serious-harm) *10 May 2021*
 * Metro: [Man with bipolar killed himself after being deemed ‘fit for work’](https://metro.co.uk/2021/05/11/man-with-bipolar-killed-himself-after-being-deemed-fit-for-work-14558748/) *11 May 2021*
-* Mirror: [Death of mum-of-four found in 'freezing home' in her 'coat and scarf' reviewed by DWP](https://www.mirror.co.uk/news/uk-news/death-mum-four-found-freezing-24090038) *12 May 2021*
+* The Times: Woman died after benefits cut *11 May 2021*
+* The Mirror: [Death of mum-of-four found in 'freezing home' in her 'coat and scarf' reviewed by DWP](https://www.mirror.co.uk/news/uk-news/death-mum-four-found-freezing-24090038) *12 May 2021*

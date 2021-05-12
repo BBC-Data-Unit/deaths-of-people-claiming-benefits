@@ -80,3 +80,4 @@ The story featured on BBC front, home and England pages. It was used on televisi
 * Bustle: [What Happened With The Philippa Day Case & Why It Matters](https://www.bustle.com/politics/what-happened-with-the-philippa-day-case-why-does-it-matter) *10 May 2021*
 * Benefits and Work: [DWP faces more legal action as BBC reveals 150 benefits related deaths or episodes causing serious harm](https://www.benefitsandwork.co.uk/news/4380-dwp-faces-more-legal-action-as-bbc-reveals-150-benefits-related-deaths-or-episodes-causing-serious-harm) *10 May 2021*
 * Metro: [Man with bipolar killed himself after being deemed ‘fit for work’](https://metro.co.uk/2021/05/11/man-with-bipolar-killed-himself-after-being-deemed-fit-for-work-14558748/) *11 May 2021*
+* Mirror: [Death of mum-of-four found in 'freezing home' in her 'coat and scarf' reviewed by DWP](https://www.mirror.co.uk/news/uk-news/death-mum-four-found-freezing-24090038) *12 May 2021*

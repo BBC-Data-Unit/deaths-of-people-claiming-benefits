@@ -68,6 +68,7 @@ Stories written by partners based on this research included:
 * The Lincolnite: [Universal Credit cases allegedly linked to Lincolnshire deaths](https://thelincolnite.co.uk/2021/05/universal-credit-cases-allegedly-linked-to-lincolnshire-deaths/) *11 May 2021*
 * The Oldham Times: [Deaths of people on benefits sparks Oldham MP inquiry call](https://www.theoldhamtimes.co.uk/news/19294130.deaths-people-benefits-sparks-oldham-mp-inquiry-call/) *12 May 2021*
 * Liverpool Echo: [Death of 'freezing and skint' mum of four found in her 'hat and scarf' reviewed by DWP](https://www.liverpoolecho.co.uk/news/liverpool-news/death-freezing-skint-mum-four-20570472) *12 May 2021*
+* The Lincolnite: [Apologies came “too late”: Jolly dad died after benefits underpayments](https://thelincolnite.co.uk/2021/05/apologies-came-too-late-jolly-dad-died-after-benefits-underpayments/) *13 May 2021*
 
 The story featured on BBC front, home and England pages. It was used on television news by BBC Breakfast, the 13:00, 18:00 and 22:00 national bulletins, Afternoon Live on the BBC News Channel, East Midlands Today and BBC Spotlight. It was also used by BBC Radio 4 Today, BBC Radio Manchester, BBC Radio Tees and BBC Radio Shropshire.
 
@@ -83,3 +84,4 @@ The story featured on BBC front, home and England pages. It was used on televisi
 * Metro: [Man with bipolar killed himself after being deemed ‘fit for work’](https://metro.co.uk/2021/05/11/man-with-bipolar-killed-himself-after-being-deemed-fit-for-work-14558748/) *11 May 2021*
 * The Times: Woman died after benefits cut *11 May 2021*
 * The Mirror: [Death of mum-of-four found in 'freezing home' in her 'coat and scarf' reviewed by DWP](https://www.mirror.co.uk/news/uk-news/death-mum-four-found-freezing-24090038) *12 May 2021*
+* Scotland: Daily Record: [Death of mum found freezing 'in her coat and scarf' after benefits stopped being investigated by DWP](https://www.dailyrecord.co.uk/news/uk-world-news/dwp-investigating-womans-2017-death-24094467) *12 May 2021*

@@ -85,3 +85,4 @@ The story featured on BBC front, home and England pages. It was used on televisi
 * The Times: Woman died after benefits cut *11 May 2021*
 * The Mirror: [Death of mum-of-four found in 'freezing home' in her 'coat and scarf' reviewed by DWP](https://www.mirror.co.uk/news/uk-news/death-mum-four-found-freezing-24090038) *12 May 2021*
 * Scotland: Daily Record: [Death of mum found freezing 'in her coat and scarf' after benefits stopped being investigated by DWP](https://www.dailyrecord.co.uk/news/uk-world-news/dwp-investigating-womans-2017-death-24094467) *12 May 2021*
+* Wales Online: [Tragedy of mum-of-four 'found dead in her hat and scarf in her freezing flat after her benefits were cut'](https://www.walesonline.co.uk/news/politics/tragedy-mum-four-found-dead-20604721) *15 May 2021*

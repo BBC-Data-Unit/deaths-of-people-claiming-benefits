@@ -69,6 +69,7 @@ Stories written by partners based on this research included:
 * The Oldham Times: [Deaths of people on benefits sparks Oldham MP inquiry call](https://www.theoldhamtimes.co.uk/news/19294130.deaths-people-benefits-sparks-oldham-mp-inquiry-call/) *12 May 2021*
 * Liverpool Echo: [Death of 'freezing and skint' mum of four found in her 'hat and scarf' reviewed by DWP](https://www.liverpoolecho.co.uk/news/liverpool-news/death-freezing-skint-mum-four-20570472) *12 May 2021*
 * The Lincolnite: [Apologies came “too late”: Jolly dad died after benefits underpayments](https://thelincolnite.co.uk/2021/05/apologies-came-too-late-jolly-dad-died-after-benefits-underpayments/) *13 May 2021*
+* Manchester Evening News: [Tragedy of mum-of-four 'found dead in her hat and scarf in her freezing flat after her benefits were cut'](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/tragedy-mum-four-found-dead-20602214) *15 May 2021*
 
 The story featured on BBC front, home and England pages. It was used on television news by BBC Breakfast, the 13:00, 18:00 and 22:00 national bulletins, Afternoon Live on the BBC News Channel, East Midlands Today and BBC Spotlight. It was also used by BBC Radio 4 Today, BBC Radio Manchester, BBC Radio Tees and BBC Radio Shropshire.
 

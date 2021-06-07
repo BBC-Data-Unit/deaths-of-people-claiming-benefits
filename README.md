@@ -83,6 +83,7 @@ The story featured on BBC front, home and England pages. It was used on televisi
 * Disability Rights UK: [82 benefit claimants have died after some alleged DWP activity such as termination of benefits, BBC finds](https://www.disabilityrightsuk.org/news/2021/may/82-benefit-claimants-have-died-after-some-alleged-dwp-activity-such-termination) *10 May 2021*
 * Bustle: [What Happened With The Philippa Day Case & Why It Matters](https://www.bustle.com/politics/what-happened-with-the-philippa-day-case-why-does-it-matter) *10 May 2021*
 * Benefits and Work: [DWP faces more legal action as BBC reveals 150 benefits related deaths or episodes causing serious harm](https://www.benefitsandwork.co.uk/news/4380-dwp-faces-more-legal-action-as-bbc-reveals-150-benefits-related-deaths-or-episodes-causing-serious-harm) *10 May 2021*
+* Leigh Day: [Investigation reveals 150 DWP reviews into deaths or harm to benefits claimants](https://www.leighday.co.uk/latest-updates/news/2021-news/investigation-reveals-150-dwp-reviews-into-deaths-or-harm-to-benefits-claimants/) *10 May 2021*
 * Metro: [Man with bipolar killed himself after being deemed ‘fit for work’](https://metro.co.uk/2021/05/11/man-with-bipolar-killed-himself-after-being-deemed-fit-for-work-14558748/) *11 May 2021*
 * The Times: Woman died after benefits cut *11 May 2021*
 * The Mirror: [Death of mum-of-four found in 'freezing home' in her 'coat and scarf' reviewed by DWP](https://www.mirror.co.uk/news/uk-news/death-mum-four-found-freezing-24090038) *12 May 2021*
